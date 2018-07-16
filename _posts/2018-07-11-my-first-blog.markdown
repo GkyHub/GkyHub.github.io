@@ -3,6 +3,7 @@ layout: post
 title:  "Finally the first blog"
 date:   2018-07-11 17:12:00 +0800
 categories: personal
+tags: 日常
 ---
 After hours of work with a slow Internet, I think I finally got the basic things of jekyll. Otherwise you will not see this page.
 
